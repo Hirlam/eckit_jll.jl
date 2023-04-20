@@ -1,0 +1,60 @@
+[[eckit]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bde1e65bea36a8f6a3d08cd5157447d6d9c7bbd2"
+libc = "glibc"
+os = "linux"
+
+    [[eckit.download]]
+    sha256 = "e34143cc6b20ab8aadfc378832952e149d8e9d590e0ce8b64d6c72e82488d4fb"
+    url = "https://github.com/local/releases/download/eckit-v1.23.0+0/eckit.v1.23.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[eckit]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d86276d8373b74b12fbefaad2701779b12fb041d"
+libc = "glibc"
+os = "linux"
+
+    [[eckit.download]]
+    sha256 = "28dd296fd9e9448d5a5ca747e452baf7fe7e580345ad14cdd0bc926e852f7244"
+    url = "https://github.com/local/releases/download/eckit-v1.23.0+0/eckit.v1.23.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[eckit]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81e1c22e1281d720d1e2409d3d6a51ebf35491ba"
+libc = "glibc"
+os = "linux"
+
+    [[eckit.download]]
+    sha256 = "175103ba9d2d35dfffc0b181be8228659657ec83bf9b42689d0fcca7477a7fdc"
+    url = "https://github.com/local/releases/download/eckit-v1.23.0+0/eckit.v1.23.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[eckit]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d219b9c0d5d174aef7fd1e34bf0c64c6b46f320d"
+libc = "glibc"
+os = "linux"
+
+    [[eckit.download]]
+    sha256 = "76b8cc7a76ec94e8000d805017e5408e80d686a863af84ab0c6dc78d1064a048"
+    url = "https://github.com/local/releases/download/eckit-v1.23.0+0/eckit.v1.23.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[eckit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c5a310161c220fc95c2fbf2e8322b8ce811ca053"
+libc = "glibc"
+os = "linux"
+
+    [[eckit.download]]
+    sha256 = "9c600cfe27ecbb599679511eb214726096db04635863f86c354a46db6651837c"
+    url = "https://github.com/local/releases/download/eckit-v1.23.0+0/eckit.v1.23.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[eckit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2eaa8f280b737bfcff9def69f19733031fa83e1b"
+libc = "glibc"
+os = "linux"
+
+    [[eckit.download]]
+    sha256 = "35a3762350e9c3549fd8263e3dd4c22d5545b8abe522458c21d9fa587d5316d1"
+    url = "https://github.com/local/releases/download/eckit-v1.23.0+0/eckit.v1.23.0.x86_64-linux-gnu-cxx11.tar.gz"
